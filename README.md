@@ -15,4 +15,4 @@ O E-book foi criado seguindo as orientações de Felipe, Tech Educator da DIO.
 [Veja o e-book](https://github.com/Cris-Pin-Bel/Criando-E-book/blob/6f104c9847797277faa43f5ee4c002e993975d86/Ebook%20Constru%C3%A7%C3%A3o%20e%20IA.pdf)
 
 ## 💭 Comentário
-Como o conteúdo do ebook foi criado por uma ferramenta de I.A, o mesmo pode conter erros, devendo sempre ser revisado.
+O conteúdo criado por uma ferramenta de I.A pode conter erros, devendo ser revisado.
